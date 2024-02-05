@@ -17,3 +17,6 @@ P
  src/main/java/app/model/Dog.java,1\6\165b8af9c170ec8d6af8fe443b164aab18c4c20b
 R
 "src/main/java/app/model/Timer.java,e\2\e268456b123aacbcee21bcd322630c3c4949483b
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
